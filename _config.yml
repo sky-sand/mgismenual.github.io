@@ -162,9 +162,9 @@ yat:
 # Page default value
 # defaults:
 #   home:
-#     heading: "Your awesome heading"
-#     subheading: "Your awesome subheading"
-#     banner: "Your image url"
+#     heading: "MOBILTECH"
+#     subheading: "Menual Page"
+#     banner: "https://drive.google.com/file/d/1AhO4LjpSYaYlirfxIXwrvGGr4ZjsDD15/view?usp=sharing"
 
 # Banner default settings
 # These banner settings are for global banner default, but you can also
